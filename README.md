@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src = "https://github.com/Sakshi1700/Sakshi1700/blob/main/Sakshi.svg" alt="banner" width = "1280px" height="450px">
 <!--
 **Sakshi1700/Sakshi1700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
