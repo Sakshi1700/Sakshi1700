@@ -8,7 +8,8 @@
 
 ## Connect with me 
 <div align="left">
-<a href="https://icons8.com/icon/qyRpAggnV0zH/gmail">
+&nbsp;
+<a href="mailto:sakshi172913@gmail.com">
 <img src="https://img.icons8.com/fluent/50/000000/gmail-new.png" alt="Gmail" width="50">
 </a>
 <a href="https://www.linkedin.com/in/sakshi-verma-2a12551b2" target="_blank">
