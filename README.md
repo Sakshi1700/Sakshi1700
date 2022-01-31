@@ -52,3 +52,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi1700&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sakshi1700&theme=material-palenight)
 
+![](https://komarev.com/ghpvc/?username=Sakshi1700&color=blueviolet&style=plastic)
