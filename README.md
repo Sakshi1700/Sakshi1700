@@ -1,4 +1,6 @@
-<img src = "https://github.com/Sakshi1700/Sakshi1700/blob/main/Sakshi.svg" alt="banner" width = "1280px" height="450px">
+<!--<img src = "https://github.com/Sakshi1700/Sakshi1700/blob/main/Sakshi.svg" alt="banner" width = "1280px" height="450px"> -->
+
+## Hey there, I'm Sakshi Verma
 
 ## About me
 
