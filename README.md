@@ -17,9 +17,6 @@
 <a href="https://www.linkedin.com/in/sakshi-verma-2a12551b2" target="_blank">
 <img src="https://img.icons8.com/fluent/50/000000/linkedin.png"alt="linkedin" width="50">
 </a>
-<a href="https://instagram.com/_sakshi1709_" target="_blank">
-<img src="https://img.icons8.com/fluent/50/000000/instagram-new.png"alt="insta" width="50">
-</a>  
 </div>
 
 </br>
