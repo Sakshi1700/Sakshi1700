@@ -50,3 +50,5 @@
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sakshi1700&theme=material-palenight)
 
 ![](https://komarev.com/ghpvc/?username=Sakshi1700&color=blueviolet&style=plastic)
+
+![Snake animation](https://github.com/Sakshi1700/Sakshi1700/blob/output/github-contribution-grid-snake.svg)
