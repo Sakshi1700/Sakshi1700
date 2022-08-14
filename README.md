@@ -4,7 +4,7 @@
 
 ## About me
 
-### I'm currently a pre-final year student at the International Institute of Information Technology, Naya Raipur, and will be graduating in 2023 with a B.Tech degree in Electronics and Communication Engineering.
+### I'm currently a final year student at the International Institute of Information Technology, Naya Raipur, and will be graduating in 2023 with a B.Tech degree in Electronics and Communication Engineering.
 
 </br>
 
